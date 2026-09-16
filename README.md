@@ -1,8 +1,10 @@
 16-Sep-2026
 
-<!-- notify 1/2 · eJ154Pw8 -->
-## Notification 1/2
-Round: Round 1
-To: nicosia.barnett@yahoo.com, nicosoleil53@hotmail.com
-At: 2026-09-16 19:41:41
-Id: eJ154Pw8
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: nicothirion@hotmail.com, nireg@aol.com
+At: 2026-09-16 19:41:55
+Id: xu4qjxfi
